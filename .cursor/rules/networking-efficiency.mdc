@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Networking Efficiency
+Applies to: server/**/*.js, client/network/**/*.js
+
+Use Colyseus for multiplayer. Implement client prediction and server reconciliation. Minimize data sent over the network by using delta compression or similar techniques.

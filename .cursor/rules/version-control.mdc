@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Version Control Practices
+Applies to: **/*.*
+
+Use Git with feature branches. Write descriptive commit messages. Avoid committing sensitive data; use `.gitignore` appropriately.

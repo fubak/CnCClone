@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Testing and Debugging
+Applies to: **/*.test.js, **/*.spec.js
+
+Write unit tests for critical components. Use integration tests for multiplayer interactions. Implement logging and use browser dev tools for debugging.

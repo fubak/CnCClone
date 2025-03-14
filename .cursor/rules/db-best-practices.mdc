@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Database Best Practices
+Applies to: server/db/**/*.js
+
+Use MongoDB with Mongoose. Define schemas for all data models. Use indexing for frequently queried fields. Implement error handling for database operations.

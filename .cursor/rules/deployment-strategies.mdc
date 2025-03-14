@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Deployment Strategies
+Applies to: deploy/**/*.sh, .github/workflows/*.yml
+
+Use CI/CD pipelines for automated deployments. Deploy frontend to static hosting (e.g., Netlify) and backend to VPS (e.g., DigitalOcean). Manage secrets with environment variables.

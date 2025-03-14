@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# UI/UX Guidelines
+Applies to: client/ui/**/*.js, client/styles/**/*.css
+
+Follow a consistent design system. Use responsive design principles. Ensure accessibility features are implemented where possible.

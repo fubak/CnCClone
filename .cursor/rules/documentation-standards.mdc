@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Documentation Standards
+Applies to: **/*.*
+
+Write comments for complex logic. Maintain a `README.md` with project setup instructions. Use JSDoc for API documentation.

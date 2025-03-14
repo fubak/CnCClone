@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Performance Optimization
+Applies to: client/**/*.js
+
+In Phaser, use object pooling for frequently created/destroyed objects. Optimize rendering by using sprite sheets. Profile and optimize game loops to maintain 60 FPS.

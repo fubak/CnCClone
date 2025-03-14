@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Code Modularity
+Applies to: **/*.js, **/*.ts
+
+Organize code into directories like `client`, `server`, and `shared`. Limit files to 500 lines; split large files into smaller modules (e.g., `playerControls.js`). Use named exports for reusability.

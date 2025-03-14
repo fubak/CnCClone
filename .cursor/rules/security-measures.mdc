@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Security Measures
+Applies to: **/*.*
+
+Implement authentication and authorization for backend services. Sanitize user inputs to prevent injection attacks. Use HTTPS for all communications.
